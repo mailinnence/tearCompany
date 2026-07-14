@@ -1,12 +1,12 @@
 {
-  "signature": "ZX6qPGrr6s74SLTHbLesUL4uAC6FnFJ/bfWYDyqspqNBsVIW3H0I13K3oYog9FvK8V6h0WtcdPrykhMYtJjOSbrTOnGzEf7p8/kkKCzHJoXDJcolYuJc4/7a9claR+WDELcBbrY1KVdAkIVdIm4vETBxCw893ac+yw3YKTAh+4ZJm6pV8G4sFvDao9+FwtjKYqnDQ57YMXDQRCENiYHp57RhU6aJ8ingH1/Z/8Rzm+6sbX8dRpGM2uWqVxc+CKzvlM85K7vBTMeL/HwBOsUGCBZfGMg+AQ4WSJXvmnsQ/Jv1NGndcjwYVIeKiyfrtPNM9xq2hKpQI73b9UMaDEGfRQ==",
+  "signature": "kScOD/oJZ3l4TGOyY95hsWTGnwFl425KYkbQpIIWpieOIi3xj3bTJlEDIwrwQX+au4cDios98s+ZII63ulX00CDmZPKcXJrKi7Ut5Kx1+3ibIgBdEadqTqfO/5u7cJRdTP+c+iu5OQYz6SToCSS61FzSmnZPTEYvz9BL2lyrlGimIk7Q41pOSnDu/6MxEPHTDe4gyb+ao+p8HeogxdjYrgANqgIzBj9TDLGxO+ycnKdv0WdO1fhrCkrNpUqgiUMzLRe0WkNFj0fybxcgaTY4smNTim04ea09TBbW3bKVMv1pvaDnvs/leuOrcLfxpf3tQGt+ocx+52B07ENuDpjQAQ==",
   "version": 1,
   "advertisement": "",
   "alarm":"",
   "topics": [
-    {"subject" : 1,  "levels": 5, "amount" : 30, "name": "영단어"},
-    {"subject" : 2,  "levels": 4, "amount" : 40, "name": "건강" },
-    {"subject" : 3,  "levels": 5, "amount" : 50, "name": "기본상식"},
-    {"subject" : 4,  "levels": 4 , "amount" : 100, "name": "생활상식"}
+    {"subject" : 1,  "levels": 4, "amount" : 100, "name": "일반 상식"},
+    {"subject" : 2,  "levels": 5, "amount" : 50, "name": "지구 과학" },
+    {"subject" : 4,  "levels": 5 , "amount" : 30, "name": "동물,곤충"},
+    {"subject" : 5,  "levels": 5 , "amount" : 30, "name": "식물,과일"}
   ]
 }
